@@ -1,10 +1,10 @@
-import { PromesasPage } from './app.po';
+import { Promesas.MxPage } from './app.po';
 
-describe('promesas App', () => {
-  let page: PromesasPage;
+describe('promesas.mx App', () => {
+  let page: Promesas.MxPage;
 
   beforeEach(() => {
-    page = new PromesasPage();
+    page = new Promesas.MxPage();
   });
 
   it('should display welcome message', () => {

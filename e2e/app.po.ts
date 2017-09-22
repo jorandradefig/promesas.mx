@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class PromesasPage {
+export class Promesas.MxPage {
   navigateTo() {
     return browser.get('/');
   }
