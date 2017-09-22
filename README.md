@@ -25,6 +25,9 @@ acciones que se estan indicando por distintos sectores de Gobierno, iniciativas
 públicas y privadas, organizaciones civiles, fundaciones, etc., para que exista
 una legalidad de que se esten llevando o se llevaron acabo en su cabalidad y totalidad.
 
+Se realizara un tracking de las donaciones públicas y privadas para llevar un conteo transparentes y quienes son los destinatarios
+así corroborar los gastos y que sean efectuados para quienes más lo necesitan.
+
 
 ## ¿Cómo Ayudar?
 
