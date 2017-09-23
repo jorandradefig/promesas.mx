@@ -1,0 +1,42 @@
+.navbar {
+  font-family: 'Open Sans', sans-serif;
+  .row {
+    width: 100%;
+    &.top {
+      background-color: #393C3E;
+      height: 60px;
+      .brand {
+        color: white;
+        font-size: 27px;
+      }
+      .menu {
+        color: white;
+        .object {
+          background-color: black;
+          font-size: 20px;
+          &:hover {
+            background-color: black;
+          }
+        }
+      }
+    }
+    &.sub {
+      background-color: black;
+      height: 60px;
+      .brand {
+        color: white;
+        font-size: 20px;
+      }
+      .menu {
+        color: white;
+        .object {
+          background-color: #545454;
+          font-size: 14px;
+          &:hover {
+            background-color: #545454;
+          }
+        }
+      }
+    }
+  }
+}
