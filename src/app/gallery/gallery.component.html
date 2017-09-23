@@ -1,0 +1,7 @@
+<div class="container-fluid header d-flex justify-content-center align-items-center">
+  <div class="row py-5 px-3">
+    <div class="col-3 p-1" *ngFor="let row of data">
+      <app-promise no="{{row['No.']}}" promise="{{row['Promesas']}}" author="{{row['Autor']}}" position="{{row['Cargo']}}" government="{{row['Gobierno']}}" ispublic="{{row['Público']}}" isprivate="{{row['Privado']}}" civil="{{row['Asociación Civil']}}" resource="{{row['Recurso que valida la promesa']}}"></app-promise>
+    </div>
+  </div>
+</div>
